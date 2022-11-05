@@ -1,0 +1,37 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "category": "bien-etre animal",
+      "title": "journee d adopation des chats",
+      "description": "trouvez votre nouvel ami felin lors de cet evenement",
+      "location": "meow town ",
+      "date": "2022-01-28",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "foulen ben foulen"
+    },
+    {
+      "id": 2,
+      "category": "bien-etre animal",
+      "title": "journee d adopation des chats",
+      "description": "trouvez votre nouvel ami felin lors de cet evenement",
+      "location": "meow town ",
+      "date": "2022-01-28",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "foulen ben foulen"
+    },
+    {
+      "id": 3,
+      "category": "bien-etre animal",
+      "title": "journee d adopation des chats",
+      "description": "trouvez votre nouvel ami felin lors de cet evenement",
+      "location": "meow town ",
+      "date": "2022-01-28",
+      "time": "12:00",
+      "petsAllowed": true,
+      "organizer": "foulen ben foulen"
+    }
+  ]
+}
